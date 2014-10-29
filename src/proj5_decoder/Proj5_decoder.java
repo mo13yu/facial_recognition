@@ -26,6 +26,7 @@ public class Proj5_decoder {
         ArrayList<Character> characterList = new ArrayList<>();
         ArrayList<Integer> count = new ArrayList<>();
         for (int i = 0; i < 26; i++) {
+			// master
             count.add(0);
         }
 
